@@ -1,5 +1,5 @@
 # Prueba Unity usando datos JSON
-_Obtener mediante un archivo JSON los datos y mostrarlos en un panel, mediante un boton actualizar los datos si el fichero cambia dichos datos._
+_Se comparte el archivo completo para poder ejecutarlo desde Unity, en este caso se ha utilizado la version 2019.3.15f1 , muchas gracias._
 ## Autor ✒️
 * **Stalin Carrión** 
 ## Relevante📖
